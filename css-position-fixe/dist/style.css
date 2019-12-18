@@ -1,0 +1,12 @@
+.notification{
+  background:#FFFFDD;
+  padding:.5rem 1rem;
+  border:3px solid #DDDDCC;
+  width:250px;
+  font-weight:bold;
+  color: #333300;
+  /* rajoute le code nécessaire ici*/
+  position: fixed;
+  top: 0px;
+  right: 0px;
+}

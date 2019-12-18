@@ -1,0 +1,16 @@
+nav {
+  padding: 0px 0px 0px 11px;
+}
+
+li {
+  font-size: 96%; 
+  display: inline;
+  border: solid;
+  border-width: thin;
+  border-radius: 0.2em;
+  padding: 3px 3px 3px 3px;
+}
+a{
+  color: black;
+  text-decoration: none;
+}

@@ -1,0 +1,21 @@
+div{
+  margin: 80px 350px ;
+}
+.posts {
+  display: grid;
+  grid-template-columns: 300px 300px 300px 300px;
+}
+* {box-sizing: border-box;}
+article {
+  border: 2px solid #f76707;
+  border-radius: 5px;
+  padding: 1em 1em 1em 1em;
+}
+.wrapper > div {
+  border: 2px solid #ffa94d;
+  border-radius: 5px;
+  background-color: #ffd8a8;
+
+    padding: 2em;
+  color: #d9480f;
+}
